@@ -1,4 +1,4 @@
-# Diabetes-dataset-
+# Diabetes-dataset
 
 📌 Project Overview
 
